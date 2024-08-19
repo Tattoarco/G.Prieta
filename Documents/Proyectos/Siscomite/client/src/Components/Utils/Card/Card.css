@@ -1,0 +1,11 @@
+/* Estilos para listas */
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.listItem {
+  margin-bottom: 5px;
+  font-size: 14px;
+  color: #333;
+}
